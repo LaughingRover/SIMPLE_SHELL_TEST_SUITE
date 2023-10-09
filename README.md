@@ -1,5 +1,7 @@
 # 0x16 ALX SIMPLE SHELL TEST SUITE
 
+Credit: Cloned from early iterations of [Fuzzworth's test suite](https://github.com/Fuzzworth/alx_test_suite).
+
 ## DESCRIPTION
 
 - This is a set of testing scripts for all simple shell tasks except betty and memory checks with valgrind.
