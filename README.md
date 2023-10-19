@@ -20,7 +20,7 @@ Credit: Cloned from early iterations of [Fuzzworth's test suite](https://github.
 
 #### copy & paste each highlighted command to your terminal and press `enter ↲` one after the other
 
-1. `git clone https://github.com/Fuzzworth/alx_test_suite.git` clone this repo into your simple_shell directory
+1. `https://github.com/LaughingRover/SIMPLE_SHELL_TEST_SUITE.git` clone this repo into your simple_shell directory
 2. `mv alx_test_suite/simple_shell_project TEST_SUITE` - Move the simple_shell_project directory to your simple_shell directory, renaming as TEST_SUITE
 3. `cd TEST_SUITE` - Navigate into the TEST_SUITE directory
 4. `chmod +x checker.bash runchecker.bash` - make them executable
@@ -52,7 +52,7 @@ We welcome any feedback, suggestions, or bug reports related to the test cases i
 #### Step 1: Clone repository
 
 ```bash
-git clone https://github.com/Fuzzworth/alx_test_suite.git
+https://github.com/LaughingRover/SIMPLE_SHELL_TEST_SUITE.git
 ```
 
 then,
