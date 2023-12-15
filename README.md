@@ -18,7 +18,7 @@ Credit: Cloned from early iterations of [Fuzzworth's test suite](httpthe://githu
 
 ## HOW TO USE
 
-#### Copy & paste each highlighted command to your terminal and press `enter ↲` one after the other
+ Copy & paste each highlighted command to your terminal and press `enter ↲` one after the other
 
 1. `https://github.com/LaughingRover/SIMPLE_SHELL_TEST_SUITE.git` clone this repo into your simple_shell directory
 2. Move the TEST_SUITE directory to your simple_shell directory
